@@ -1,4 +1,7 @@
 # Canon-LBP6000B-Archlinux-Script
+
+Canon i-SENSYS LBP6000B
+
 ![i-SENSYS-LBP6000B-FSL_200px_tcm60-768005](https://github.com/ots25/Canon-LBP6000B-Archlinux-Script/assets/89610703/eefd60b6-c7e3-4188-9ff5-db0f2b968de1)
 
 
