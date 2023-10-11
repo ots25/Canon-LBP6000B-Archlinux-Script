@@ -11,6 +11,6 @@ Befor using the script you must:
 
 1- install 'python2' manualy because it was removed from the official repos.
 
-2- install the driver with: yay -S capt-src
+2- install the driver from AUR with: yay -S capt-src
 
 3- Run the script with: sudo ./ Canon-LBP6000B.sh
