@@ -15,4 +15,4 @@ Befor using the script you must:
 
 2- install the driver from AUR with: yay -S capt-src
 
-3- Run the script with: sudo ./ Canon-LBP6000B.sh
+3- Run the script with: sudo ./ install.sh
